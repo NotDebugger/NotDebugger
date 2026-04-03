@@ -39,6 +39,7 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
