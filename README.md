@@ -12,11 +12,11 @@
 
 
 ### 🧐 More About Me:
-💻 Frontend Developer  
-🎓 Final-year Computer Science student  
-🚀 Passionate about building scalable and high-performance web applications  
-🎯 Focused on clean UI, smooth UX, and efficient code  
-🤝 Let’s build something impactful
+-💻 Frontend Developer  
+-🎓 Final-year Computer Science student  
+-🚀 Passionate about building scalable and high-performance web applications  
+-🎯 Focused on clean UI, smooth UX, and efficient code  
+-🤝 Let’s build something impactful
 
 <br/>
 
