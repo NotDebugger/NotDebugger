@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRhN2pvZm5vNTFwMDFleXFvb2sycmV0dm9sOWxneHZ6dnB0cml1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="200">
 <!-- <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> -->
-<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
+<!-- <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> -->
 
 
 ### 🧐 More About Me:
