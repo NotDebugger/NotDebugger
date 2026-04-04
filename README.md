@@ -23,12 +23,7 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,sass,pug,notion,reactrouter,redux,reactquery,pnpm,git,github,githubactions&theme=dark&titles=true)
 
-
-
-
-### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
