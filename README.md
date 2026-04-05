@@ -2,7 +2,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=EFFAFF&center=true&vCenter=true&width=450&height=60&lines=Frontend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Saira+Stencil&size=40&pause=1000&color=80deea&center=true&vCenter=true&width=450&height=60&lines=Frontend+Developer)
 
 <hr/>
 
